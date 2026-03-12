@@ -1,9 +1,8 @@
 class Consoleblame < Formula
   desc "Stream browser console output to your terminal"
   homepage "https://github.com/theomilll/consoleblame"
-  url "https://github.com/theomilll/consoleblame/archive/5ae476a4af6d3d52203123f3c16ffb80cc734d04.tar.gz"
-  version "0.1.0"
-  sha256 "d58d8fbafdf1f750e359e858fb961ed70fe811e3091e5b8cc149f3e335d1ebb8"
+  url "https://github.com/theomilll/consoleblame/archive/refs/tags/v0.3.0.tar.gz"
+  sha256 "ab50ded3dc05361352c4ef536fe15350991bd84d2fd29853874a5422800b302b"
   license "MIT"
 
   depends_on "node"
